@@ -1,0 +1,23 @@
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\Dieu_khien_ giam_sat.exe.config
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\Dieu_khien_ giam_sat.exe
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\Dieu_khien_ giam_sat.pdb
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien_ giam_sat.csprojResolveAssemblyReference.cache
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien__giam_sat.Form1.resources
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien__giam_sat.Properties.Resources.resources
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien_ giam_sat.csproj.GenerateResource.Cache
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien_ giam_sat.exe
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien_ giam_sat.pdb
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\CircularProgressBar.dll
+T:\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\WinFormAnimation.dll
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\Dieu_khien_ giam_sat.exe.config
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\Dieu_khien_ giam_sat.exe
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\Dieu_khien_ giam_sat.pdb
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\CircularProgressBar.dll
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\bin\Debug\WinFormAnimation.dll
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien_ giam_sat.csprojAssemblyReference.cache
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien__giam_sat.Form1.resources
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien__giam_sat.Properties.Resources.resources
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien_ giam_sat.csproj.GenerateResource.cache
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien_ giam_sat.csproj.CopyComplete
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien_ giam_sat.exe
+T:\Hoc_tap\giao dien giam sat\Dieu_khien_ giam_sat\Dieu_khien_ giam_sat\obj\Debug\Dieu_khien_ giam_sat.pdb
